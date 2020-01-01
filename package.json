@@ -1,7 +1,7 @@
 {
   "name": "reacttutor",
   "version": "1.0.0",
-  "description": "",
+  "description": "a react tutor project",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,10 +10,13 @@
     "type": "git",
     "url": "git+https://github.com/wang2510/ReactTutor.git"
   },
-  "author": "",
+  "author": "wyjsusan",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/wang2510/ReactTutor/issues"
   },
-  "homepage": "https://github.com/wang2510/ReactTutor#readme"
+  "homepage": "https://github.com/wang2510/ReactTutor#readme",
+  "keywords": [
+    "react"
+  ]
 }
